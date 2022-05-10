@@ -2,12 +2,15 @@
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
-  -<b>[Epsilon Ontology Evaluation System]
-  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</b>
-   -<b> [Epsilon Ontology Evaluation System]
-  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</b>
+  <b>Epsilon Ontology Evaluation System</b>
+  - [Epsilon Ontology Evaluation System with Html,css and js](https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
+- <b>Tourism and Disability(Html, Css, js, and Mysql Database)</b>
+  - (https://mariosggg.github.io/Project_Amea/)
+- <b>Bitcoin Dashboard</b>
+  - [Bitcoin Dashboard With R ,Shiny Server and PostgreSQL Database](https://github.com/mariosggg/BitcoinDashboard)
+- <b>Vacations management system With Html ,Css , js ,Php , Mysql </b>
+- (https://github.com/mariosggg/vacations_management_system)
     
-
 <h3>👨‍💻 Cyber Security Projects:</h3>
 
 
