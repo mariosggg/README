@@ -2,8 +2,8 @@
 
 <h3>👨‍💻 Software Development Projects:</h3>
 <ul>
-  <b>[Epsilon Ontology Evaluation System]</b>
-  <p>(https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</p>
+  -<b>[Epsilon Ontology Evaluation System]</b>
+  -<p>(https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</p>
 
 
 </ul>
