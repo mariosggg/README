@@ -4,7 +4,7 @@
 
   -<b>[Epsilon Ontology Evaluation System]</b>
   (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
-    -<b>[Tourism and Disability]</b>
+    -<p>[Tourism and Disability]</p>
   (https://mariosggg.github.io/Project_Amea/)
 
 
