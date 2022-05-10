@@ -8,8 +8,7 @@
   (https://mariosggg.github.io/Project_Amea/)
 - <b>Bitcoin Dashboard (R ,Shiny Server and PostgreSQL Database)</b>
    (https://github.com/mariosggg/BitcoinDashboard)
--<b>Vacations management system(Html ,Css , js ,Php , Mysql)</b>
-   (https://github.com/mariosggg/vacations_management_system)
+
     
 <h3>👨‍💻 Cyber Security Projects:</h3>
 
