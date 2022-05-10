@@ -3,7 +3,7 @@
 <h3>👨‍💻 Software Development Projects:</h3>
 
   
-  - Epsilon Ontology Evaluation System with (Html,css and js) (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
+  - <b>Epsilon Ontology Evaluation System with (Html,css and js)</b>(https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
 - <b>Tourism and Disability(Html, Css, js, and Mysql Database)</b>
   - (https://mariosggg.github.io/Project_Amea/)
 - <b>Bitcoin Dashboard</b>
