@@ -4,7 +4,7 @@
 
   -<b>[Epsilon Ontology Evaluation System]</b>
   (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
-    -[Epsilon Ontology Evaluation System]
+    -[Epsilon Ontology Evaluation System]-
   (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
     
 
