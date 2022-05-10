@@ -19,3 +19,20 @@
 
 
 <h3>👨‍💻 Certifications:</h3>
+
+
+
+
+
+
+
+
+<h3> 🤳 Connect with me:</h3>
+
+[<img align="left" alt="Marios Vardalachakis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Marios Vardalachakis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Marios Vardalachakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[youtube]: https://youtube.com/user/marioskriti2
+[instagram]: https://www.instagram.com/mariosvardalachakis/
+[linkedin]: https://www.linkedin.com/in/marios-vardalachakis-0994137a/
