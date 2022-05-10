@@ -5,11 +5,11 @@
   
   - <b>Epsilon Ontology Evaluation System with (Html,css and js)</b>(https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
 - <b>Tourism and Disability(Html, Css, js, and Mysql Database)</b>
-  - (https://mariosggg.github.io/Project_Amea/)
+  (https://mariosggg.github.io/Project_Amea/)
 - <b>Bitcoin Dashboard With (R ,Shiny Server and PostgreSQL Database)</b>
-  - (https://github.com/mariosggg/BitcoinDashboard)
-- <b>Vacations management system With (Html ,Css , js ,Php , Mysql) </b>
-- (https://github.com/mariosggg/vacations_management_system)
+   (https://github.com/mariosggg/BitcoinDashboard)
+-<b>Vacations management system With (Html ,Css , js ,Php , Mysql) </b>
+(https://github.com/mariosggg/vacations_management_system)
     
 <h3>👨‍💻 Cyber Security Projects:</h3>
 
