@@ -3,9 +3,9 @@
 <h3>👨‍💻 Software Development Projects:</h3>
 
   -<b>[Epsilon Ontology Evaluation System]
-  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
-    -[Epsilon Ontology Evaluation System]
-  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)
+  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</b>
+   -<b> [Epsilon Ontology Evaluation System]
+  (https://mariosggg.github.io/Epsilon_Ontology_Evaluation_System/)</b>
     
 
 <h3>👨‍💻 Cyber Security Projects:</h3>
